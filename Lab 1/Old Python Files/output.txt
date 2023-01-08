@@ -1,0 +1,288 @@
+Expected Coordinates:
+0.1075 -0.18 0.159 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1075 -0.1801 0.159 -0.0007 0.0008 -3.1413
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.159 -0.0 0.0001 -3.1415
+Expected Joints:
+-1.03246865239 -0.46527107017 -0.668060756021 -0.00121725516106 -0.438118927241 0.540096598444
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.4653 -0.6685 0.0 -0.4371 0.5384
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0327 -0.4656 -0.6679 0.0 -0.438 0.5386
+Expected Coordinates:
+0.1075 -0.18 0.144 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1076 -0.18 0.144 -0.0002 -0.0 -3.1409
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.144 -0.0 0.0 -3.1416
+Expected Joints:
+-1.03228521273 -0.536854841869 -0.665084538876 0.00115030594371 -0.369458133868 0.537611986441
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.5365 -0.6656 0.0 -0.3687 0.5384
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.032 -0.5367 -0.6652 0.0 -0.3695 0.5391
+Expected Coordinates:
+0.1075 -0.18 0.159 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1074 -0.18 0.159 0.0006 -0.0001 -3.1413
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.159 -0.0 0.0001 -3.1415
+Expected Joints:
+-1.03285205178 -0.465148564562 -0.668489066741 0.000480425697863 -0.437330326034 0.536916865949
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.4653 -0.6685 0.0 -0.4371 0.5384
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0328 -0.4651 -0.6687 0.0 -0.4371 0.5375
+Expected Coordinates:
+0.245 0.085 0.054 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.2451 0.085 0.054 0.0008 0.0002 -3.141
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.245 0.085 0.054 -0.0 -0.0002 -3.1415
+Expected Joints:
+0.333640457244 -1.05971633797 -0.271457185952 0.00252382200252 -0.239665449516 1.90115518261
+Estimated Joints w/ Inverse Kinematics:
+0.3339 -1.0595 -0.2718 0.0 -0.2393 1.9047
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.3338 -1.0596 -0.2713 0.0 -0.2397 1.904
+Expected Coordinates:
+0.245 0.085 0.039 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.2451 0.085 0.039 0.0007 0.0004 3.1407
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.245 0.085 0.039 -0.0001 -0.0003 -3.1415
+Expected Joints:
+0.333960793167 -1.1269113917 -0.235120677324 -0.00319876706739 -0.209448882854 1.9071793733
+Estimated Joints w/ Inverse Kinematics:
+0.3339 -1.1268 -0.2355 0.0 -0.2082 1.9048
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.3338 -1.127 -0.2349 0.0 -0.2097 1.9038
+Expected Coordinates:
+0.245 0.085 0.054 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.245 0.0851 0.054 0.0008 0.001 -3.1408
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.245 0.085 0.054 -0.0 -0.0002 -3.1415
+Expected Joints:
+0.333912651961 -1.05949491788 -0.271506207166 0.00458399369295 -0.240455144433 1.89941175356
+Estimated Joints w/ Inverse Kinematics:
+0.3339 -1.0595 -0.2718 0.0 -0.2393 1.9047
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.3343 -1.0596 -0.2715 0.0 -0.2402 1.9046
+Expected Coordinates:
+0.1075 -0.18 0.124 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1075 -0.1799 0.1239 1.5701 0.0002 -3.1407
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.124 1.5708 -0.0001 -3.1415
+Expected Joints:
+-1.03192322025 -0.635384057131 -0.653170568768 -0.00324452449173 -0.282551792318 -1.02813038195
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.6351 -0.6531 0.0 -0.2827 -1.0324
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0322 -0.6354 -0.6534 0.0 -0.2824 -1.0317
+Expected Coordinates:
+0.1075 -0.18 0.109 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1074 -0.1799 0.1089 1.571 0.0006 3.1409
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.109 1.5708 0.0002 3.1415
+Expected Joints:
+-1.03258819729 -0.711042677732 -0.637874603845 0.00119487685541 -0.220987351459 -1.03392186133
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.7109 -0.6374 0.0 -0.2223 -1.0324
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0326 -0.7111 -0.6381 0.0 -0.2204 -1.0327
+Expected Coordinates:
+0.1075 -0.18 0.124 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1076 -0.18 0.1241 1.5702 0.0006 -3.141
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.124 1.5708 -0.0001 -3.1415
+Expected Joints:
+-1.03194377217 -0.634724010544 -0.653197300698 -0.00297531052329 -0.282661672229 -1.02851213274
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.6351 -0.6531 0.0 -0.2827 -1.0324
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.032 -0.6347 -0.6529 0.0 -0.2831 -1.0316
+Expected Coordinates:
+0.17 0.085 0.054 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1701 0.085 0.054 1.5713 0.001 3.1409
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.17 0.085 0.054 1.5707 -0.0004 3.1408
+Expected Joints:
+0.462866308133 -0.978620036075 -0.630962779448 0.0300635971528 0.0389404579464 0.432287724194
+Estimated Joints w/ Inverse Kinematics:
+0.4636 -0.9787 -0.6312 0.0 0.04 0.4637
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.4634 -0.9787 -0.6308 0.0 0.04 0.463
+Expected Coordinates:
+0.211 0.085 0.039 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.211 0.085 0.039 1.5717 -0.0009 -3.1406
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.211 0.085 0.039 1.5709 0.0 -3.1416
+Expected Joints:
+0.382349330983 -1.08465310668 -0.407624637341 0.0149971912036 -0.0791056660796 0.366501567368
+Estimated Joints w/ Inverse Kinematics:
+0.383 -1.0844 -0.4076 0.0 -0.0788 0.3829
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.383 -1.0845 -0.4075 0.0 -0.0788 0.3821
+Expected Coordinates:
+0.211 0.085 0.054 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.211 0.085 0.0539 1.5705 0.0008 3.141
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.211 0.085 0.054 1.5708 0.0002 -3.1412
+Expected Joints:
+0.383181768007 -1.01223680967 -0.444873503681 -0.00809379634043 -0.11342986679 0.391552234933
+Estimated Joints w/ Inverse Kinematics:
+0.383 -1.0118 -0.4453 0.0 -0.1141 0.383
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.383 -1.0123 -0.4451 0.0 -0.1132 0.3831
+Expected Coordinates:
+0.1075 -0.18 0.089 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1075 -0.1799 0.089 -0.0008 0.0008 3.1407
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.089 -0.0 -0.0 3.1415
+Expected Joints:
+-1.0319701863 -0.813192078799 -0.608786178548 -0.00759858475472 -0.148498244199 0.547143752707
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.8133 -0.6083 0.0 -0.1491 0.5384
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0322 -0.8132 -0.6088 0.0 -0.1485 0.5392
+Expected Coordinates:
+0.1075 -0.18 0.074 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1076 -0.18 0.074 -0.0001 0.0008 3.1409
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.074 -0.0 0.0001 -3.1414
+Expected Joints:
+-1.0317125795 -0.890537900483 -0.580236167303 -0.0108105475377 -0.0998326193135 0.54990959234
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.8904 -0.5806 0.0 -0.1 0.5384
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.032 -0.8905 -0.5804 0.0 -0.1 0.5387
+Expected Coordinates:
+0.1075 -0.18 0.089 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1075 -0.1801 0.089 -0.001 -0.0004 -3.1409
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.089 -0.0 -0.0 3.1415
+Expected Joints:
+-1.03263781931 -0.81330635387 -0.608029227127 0.00484451973368 -0.149835013223 0.534340046807
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.8133 -0.6083 0.0 -0.1491 0.5384
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0327 -0.8135 -0.6078 0.0 -0.1498 0.5392
+Expected Coordinates:
+0.245 0.011 0.054 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.245 0.0111 0.054 -0.001 -0.0006 3.1412
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.245 0.011 0.054 -0.0 0.0 3.1416
+Expected Joints:
+0.0452829952025 -1.03654110419 -0.35016907543 -0.00238623679611 -0.18349326286 1.61941189813
+Estimated Joints w/ Inverse Kinematics:
+0.0449 -1.0363 -0.3504 0.0 -0.1841 1.6157
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.0453 -1.0363 -0.3505 0.0 -0.1836 1.617
+Expected Coordinates:
+0.245 0.051 0.039 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.245 0.051 0.0391 0.0009 -0.0001 3.1412
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.245 0.051 0.039 -0.0 0.0001 3.1416
+Expected Joints:
+0.20529056505 -1.11260077168 -0.286610720326 -0.0024602544876 -0.171567028866 1.7775937322
+Estimated Joints w/ Inverse Kinematics:
+0.2052 -1.1129 -0.2863 0.0 -0.1717 1.776
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.2052 -1.1125 -0.2865 0.0 -0.1717 1.7751
+Expected Coordinates:
+0.245 0.051 0.054 0.0 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.2451 0.0511 0.054 -0.0005 0.001 3.141
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.245 0.051 0.054 -0.0 0.0 3.1416
+Expected Joints:
+0.205495929794 -1.04422864854 -0.322338166327 -0.0021126014388 -0.205301208946 1.7788911611
+Estimated Joints w/ Inverse Kinematics:
+0.2052 -1.0442 -0.3228 0.0 -0.2038 1.776
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.2055 -1.0445 -0.322 0.0 -0.2053 1.7767
+Expected Coordinates:
+0.1075 -0.18 0.054 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1075 -0.1799 0.054 1.5716 0.0009 -3.141
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.054 1.5708 -0.0003 -3.1414
+Expected Joints:
+-1.03164471945 -0.992760145875 -0.536362271512 -0.0237660934454 -0.041207861625 -1.00874554517
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.9927 -0.536 0.0 -0.0424 -1.0324
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0322 -0.9926 -0.5365 0.0 -0.04 -1.033
+Expected Coordinates:
+0.1075 -0.18 0.039 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1075 -0.18 0.039 1.57 0.0007 3.1406
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1076 -0.1801 0.039 1.5708 0.0041 3.1391
+Expected Joints:
+-1.04393453242 -1.06834332271 -0.50030158874 0.448269725579 -0.00115338945391 -1.49136797071
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -1.0688 -0.4972 0.0 0.0 -1.0324
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0324 -1.0687 -0.4973 0.0 0.0 -1.0316
+Expected Coordinates:
+0.1075 -0.18 0.054 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.1075 -0.18 0.054 1.5699 0.0009 3.1408
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.1075 -0.18 0.054 1.5708 -0.0003 -3.1414
+Expected Joints:
+-1.03266091227 -0.99252611264 -0.536325091099 0.00397849191504 -0.0407628227406 -1.03573008119
+Estimated Joints w/ Inverse Kinematics:
+-1.0324 -0.9927 -0.536 0.0 -0.0424 -1.0324
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+-1.0324 -0.9927 -0.5362 0.0 -0.04 -1.0315
+Expected Coordinates:
+0.17 0.011 0.054 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.17 0.011 0.054 1.5702 0.0002 -3.141
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.17 0.011 0.054 1.5708 0.0 -3.1414
+Expected Joints:
+0.0646414075782 -0.973113768626 -0.722181082685 0.00156028971783 0.123922886879 0.0636440984985
+Estimated Joints w/ Inverse Kinematics:
+0.0646 -0.9729 -0.7223 0.0 0.1242 0.0646
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.0646 -0.9729 -0.7222 0.0 0.1234 0.0652
+Expected Coordinates:
+0.211 0.051 0.039 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.211 0.051 0.039 1.5712 -0.0003 3.141
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.211 0.051 0.039 1.5708 -0.0003 3.1404
+Expected Joints:
+0.236871216212 -1.07445367778 -0.460476806075 0.00362356113295 -0.0352035093948 0.232828438316
+Estimated Joints w/ Inverse Kinematics:
+0.2372 -1.0746 -0.4604 0.0 -0.0346 0.2372
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.2372 -1.0745 -0.4605 0.0 -0.0346 0.2368
+Expected Coordinates:
+0.211 0.051 0.054 1.57079632679 0.0 3.14159265359
+Estimated Coordinates w/ Direct Kinematics:
+0.211 0.0509 0.0539 1.5707 0.0006 3.1413
+Estimated Coordinates w/ Direct Kinematics using joints from Inverse Kinematics:
+0.211 0.051 0.054 1.5709 0.0 -3.1415
+Expected Joints:
+0.237205069143 -1.00035214511 -0.498569113133 -0.0090996811532 -0.0716983897745 0.246390650495
+Estimated Joints w/ Inverse Kinematics:
+0.2372 -1.0 -0.4988 0.0 -0.0721 0.2371
+Estimated Joints w/ Inverse Kinematics using pose from Direct Kinematics:
+0.2367 -1.0005 -0.4987 0.0 -0.0721 0.2368

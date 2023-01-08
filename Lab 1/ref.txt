@@ -1,0 +1,16 @@
+Referencial 0 - Equivalente ao base_link / world (são iguais).
+
+Referencial 1 - Equivalente ao arm_link.
+
+Referencial 2 - Equivalente ao shoulder_link.
+
+Referencial 3 - Diferente do referencial do silumador (elbow_link) - a origem é a mesma mas o x e y estão trocados. Mas acho que o nosso está bem pq o x3 tem de ser simultaneamente paralelo ao z3 e z4.
+
+Referencial 4 - Diferente do referencial do simulador (forearm-link) - a origem está transladada e o x e o y estão trocados.
+
+Referencial 5 - Diferente do referencial do simulador (wrist-link) - o x e o y estão trocados e com orientações diferentes.
+
+Referencial 6 - Equivalente ao hand_link.
+
+tool_link no simulador - não sei percebo a existência deste referencial.
+
